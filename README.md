@@ -46,7 +46,7 @@ Sau đây là các bước cơ bản để có thể cài đặt và vận hành
 - Nhập lệnh:
 
 ```sh
-git clone https://github.com/tandeptrai556-maker/Mirai-Bot-V3 Mirai-Bot-V3
+git clone https://github.com/tandeptrai556-maker/MTAT-STUDIO-BASIC-V2
 ```
 
 **3. Cài đặt các package cần thiết**
