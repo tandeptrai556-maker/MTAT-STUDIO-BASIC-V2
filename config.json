@@ -1,0 +1,65 @@
+{
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "updatePresence": true,
+        "listenTyping": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "selfListenEvent": true,
+        "autoMarkDelivery": false,
+        "autoReconnect": true
+    },
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "FACEBOOK_ADMIN": "",
+    "BOTNAME": "MTAT STUDIO",
+    "PREFIX": "/",
+    "BOXADMIN": "6804616456270022",
+    "ADMINBOT": [
+        "502275138"
+    ],
+    "NDH": [
+        "502275138"
+    ],
+    "version": "3.0.0",
+    "autoApprove": {
+        "status": false,
+        "whitelistGroups": []
+    },
+    "refreshTime": 300,
+    "startupBroadcast": {
+        "status": true,
+        "message": "🟢 MTAT STUDIO Bot đã online!\n💬 Mình đã sẵn sàng phục vụ mọi người rồi nha!\n📌 Prefix: / | Gõ /help để xem danh sách lệnh",
+        "delay": 5000
+    },
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        }
+    },
+    "autobank": {
+        "enable": true,
+        "apiToken": "YOUR_SIEUTHICODE_API_TOKEN",
+        "apiEndpoint": "https://api.sieuthicode.net/api/history",
+        "pollInterval": 20,
+        "limit": 20,
+        "bankName": "MB Bank",
+        "bankNumber": "YOUR_BANK_NUMBER",
+        "bankOwner": "HO TEN CHU TAI KHOAN",
+        "contentPrefix": "THUEBOT",
+        "goiThue": {
+            "7": 15000,
+            "30": 50000,
+            "90": 120000
+        }
+    }
+}
